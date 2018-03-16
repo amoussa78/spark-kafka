@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.0.0" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="H:\Users\Administrator\Project\historization" />
+      </SbtProjectSettings>
+    </option>
+    <option name="vmParameters" value="-Djava.security.auth.login.config=/H:/Users/Administrator/Project/EDF/api-out/src/main/resources/kafka/dev-kafka_client_jaas.conf -Djava.security.krb.conf=/H:/Users/Administrator/Project/EDF/api-out/src/main/resources/kafka/dev-krb5.conf" />
+  </component>
+</project>
