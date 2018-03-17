@@ -51,7 +51,7 @@ object ExempleStackOverFlow {
     ssc.start() // Start the computation
     ssc.awaitTermination() // Wait for the computation to terminate
   }
-
+//crash
   def bug = {
     val a = Array.empty
     a(0)
